@@ -1,4 +1,4 @@
-# Product Analytics Project
+# Product Analytics Project (LargeDataset)
 
 ## Project Overview
 This is a Django-based project designed to manage product data and provide analytics using the `/api/products/analytics/` endpoint. It includes features like:
